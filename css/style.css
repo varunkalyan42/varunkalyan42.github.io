@@ -242,7 +242,7 @@ figure {
     z-index: 1;
     margin-bottom: 0; }
     #colorlib-hero .flexslider .slides {
-      position: center;
+      position: relative;
       overflow: visible; }
       #colorlib-hero .flexslider .slides li {
         background-repeat: no-repeat;
